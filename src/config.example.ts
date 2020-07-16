@@ -186,5 +186,6 @@ export const TOKENS = {
 	XIVAPI_KEY: '',
 	FORTNITE_KEY: '',
 	WEBHOOK_B4D: '',
-	WEBHOOK_TOPGG: ''
+	WEBHOOK_TOPGG: '',
+	RIOT_API_KEY: ''
 };
